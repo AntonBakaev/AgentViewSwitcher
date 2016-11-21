@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentViewSwitcher", "AgentViewSwitcher\AgentViewSwitcher.csproj", "{FEEBE403-0683-45AA-8120-76902E61DF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{A15D5D1E-0CE8-45A6-8E00-C91F45A9294D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEBE403-0683-45AA-8120-76902E61DF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEBE403-0683-45AA-8120-76902E61DF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEBE403-0683-45AA-8120-76902E61DF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEBE403-0683-45AA-8120-76902E61DF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15D5D1E-0CE8-45A6-8E00-C91F45A9294D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15D5D1E-0CE8-45A6-8E00-C91F45A9294D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15D5D1E-0CE8-45A6-8E00-C91F45A9294D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15D5D1E-0CE8-45A6-8E00-C91F45A9294D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
